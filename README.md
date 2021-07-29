@@ -2,7 +2,7 @@
 
 This is a translator web-application.
 
-Built using: HTML,CSS and Javscript✨
-You can use this translator to find out the language of the minions and understand their language by translating the desired input sentences(should be given in English) followed by the output. 
+Built using: HTML,CSS and Javscript along with the FunTranslations API(Google it to know more)✨
+You can use this translator to understand how Hodor speaks with the user and understand his language by translating the desired input sentences(should be given in English) followed by the output. 
 
 For viewing this translator ,click here 👉 [Link](https://hodor-remembers-m7.netlify.app/)
